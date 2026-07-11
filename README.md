@@ -22,7 +22,7 @@ I'm an aspiring Data Analyst with a passion for turning data into meaningful ins
 ## Projects
 Here are some of the projects you'll find in my repositories:
 - 📊 Sales & Profit Dashboard (Excel)
-- 
+- 📈 E-commerce Sales Dashboard (Excel)
 - 🐍 Python Problem Solving
 - 📈 Data Analysis Projects
 - 📋 Excel Dashboards
@@ -36,5 +36,3 @@ Here are some of the projects you'll find in my repositories:
 ## Connect with Me
 - 💼 LinkedIn: www.linkedin.com/in/chaitali-wandhare-72262726a
 - 📧 Email: chaitaliwandhare30@gmail.com
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
